@@ -1,2 +1,2 @@
-# codsoft_webdev
+# codsoft
 Web development 
