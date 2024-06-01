@@ -145,11 +145,9 @@ table td {
 	margin-top: 30px;
 	font-size: 17px;
 }
-
 .skill span {
 	float: right;
 }
-
 .skill div {
 	width: 100%;
 	float: left;
@@ -157,7 +155,6 @@ table td {
 	background: #e7e7e7;
 	border-radius: 10px;
 }
-
 .skill div span {
 	background: #930000;
 	height: 5px;
