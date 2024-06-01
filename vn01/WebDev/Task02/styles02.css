@@ -198,6 +198,7 @@ div[role="progressbar"] {
 	padding: 30px 10px;
 	background: #ffffff;
 	margin-bottom: 20px;
+	border-radius: 5px;
 }
 .experience-content {
 	width: 100%;
@@ -232,6 +233,7 @@ textarea {
 	height: 40px;
 	padding: 10px;
 	border: 1px solid #a1a1a1;
+	border-radius: 3px;
 }
 .contact textarea {
 	height: 80px;
@@ -246,6 +248,7 @@ textarea {
 	color: #fff;
 	border: none;
 	font-size: 16px;
+	border-radius: 3px;
 }
 .contact h3 {
 	font-size: 26px;
